@@ -1,0 +1,7 @@
+print("123".isdigit())
+# print("aryan".isalpha())
+# print("hhdj525".isalnum())
+# print("2552ahhsk".isalnum())
+# print("hi ".isspace())
+# print("HCHDS".isupper())
+# print("shhsjs".islower())
